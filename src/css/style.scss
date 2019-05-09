@@ -348,8 +348,8 @@ a:link {
 	    }
 	}
 	&-image {
-		padding: 0px 0px 20px 50px; 
-		width: 80%;
+		padding: 0px 0px 35px 80px; 
+		width: 60%;
 		
 	    @include respond(phone) {
 	    	padding: 10px 0;
@@ -430,7 +430,7 @@ a:link {
 	}
 
 	img {
-	    width: 100%;
+	    width: 80%;
 	}
 
 	&-title {
